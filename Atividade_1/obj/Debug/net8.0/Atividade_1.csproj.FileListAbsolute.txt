@@ -1,0 +1,14 @@
+C:\Users\Helena Lima\OneDrive\Área de Trabalho\Nova pasta (2)\Atividade_1\bin\Debug\net8.0\Atividade_1.exe
+C:\Users\Helena Lima\OneDrive\Área de Trabalho\Nova pasta (2)\Atividade_1\bin\Debug\net8.0\Atividade_1.deps.json
+C:\Users\Helena Lima\OneDrive\Área de Trabalho\Nova pasta (2)\Atividade_1\bin\Debug\net8.0\Atividade_1.runtimeconfig.json
+C:\Users\Helena Lima\OneDrive\Área de Trabalho\Nova pasta (2)\Atividade_1\bin\Debug\net8.0\Atividade_1.dll
+C:\Users\Helena Lima\OneDrive\Área de Trabalho\Nova pasta (2)\Atividade_1\bin\Debug\net8.0\Atividade_1.pdb
+C:\Users\Helena Lima\OneDrive\Área de Trabalho\Nova pasta (2)\Atividade_1\obj\Debug\net8.0\Atividade_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Helena Lima\OneDrive\Área de Trabalho\Nova pasta (2)\Atividade_1\obj\Debug\net8.0\Atividade_1.AssemblyInfoInputs.cache
+C:\Users\Helena Lima\OneDrive\Área de Trabalho\Nova pasta (2)\Atividade_1\obj\Debug\net8.0\Atividade_1.AssemblyInfo.cs
+C:\Users\Helena Lima\OneDrive\Área de Trabalho\Nova pasta (2)\Atividade_1\obj\Debug\net8.0\Atividade_1.csproj.CoreCompileInputs.cache
+C:\Users\Helena Lima\OneDrive\Área de Trabalho\Nova pasta (2)\Atividade_1\obj\Debug\net8.0\Atividade_1.dll
+C:\Users\Helena Lima\OneDrive\Área de Trabalho\Nova pasta (2)\Atividade_1\obj\Debug\net8.0\refint\Atividade_1.dll
+C:\Users\Helena Lima\OneDrive\Área de Trabalho\Nova pasta (2)\Atividade_1\obj\Debug\net8.0\Atividade_1.pdb
+C:\Users\Helena Lima\OneDrive\Área de Trabalho\Nova pasta (2)\Atividade_1\obj\Debug\net8.0\Atividade_1.genruntimeconfig.cache
+C:\Users\Helena Lima\OneDrive\Área de Trabalho\Nova pasta (2)\Atividade_1\obj\Debug\net8.0\ref\Atividade_1.dll
